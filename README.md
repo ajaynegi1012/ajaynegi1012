@@ -5,6 +5,7 @@ Hi, I'm Ajay 👋
 ## 📈 Currently Learning
 - Advanced React
 - Projects with real-world use cases
+- Focusing on improving my problem-solving and logical thinking skills.
 
 ## 📫 Connect with me
 E-mail : ajaysinghnegi9911@gmail.com
